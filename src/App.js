@@ -137,7 +137,7 @@ if ((pokemon.id === isNaN) ||  (pokemon.id === undefined )){
        
         
         </div>
-       <a href="https://github.com/karla16Santoyo99/pokemonsrc"> Git Hub</a>
+       <a href="https://github.com/karla16Santoyo99/ProyectoPokeDexU1"> Git Hub</a>
         <p>Pokemon Name: {pokemon.name ?? "No pokemon selected"}</p>
       
         <p>Pokemon ID: {currentPokemonId?? "No pokemon slected"}</p>
