@@ -145,7 +145,7 @@ if ((pokemon.id === isNaN) ||  (pokemon.id === undefined )){
         <div>
     
       <label class="field field_v1">
-      <input class="field__input" value={busqueda} placeholder=" Nombre de Pokemon" onChange={onChange} />
+      <input class="field__input" value={busqueda} placeholder=" Nombre del Pokemon" onChange={onChange} />
    
     <span class="field__label-wrap">
     
